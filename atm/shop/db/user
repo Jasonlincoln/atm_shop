@@ -1,0 +1,12 @@
+[test]
+username = test
+password = 123
+
+[alex]
+username = alex
+password = 1212
+
+[qq]
+username = qq
+password = 123
+
